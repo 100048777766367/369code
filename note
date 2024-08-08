@@ -1,4 +1,52 @@
 # Terms
 
 Repossitory (Rep)
+Conflict
+Local
+Remote
+
+# Commands
+Cấu hình Git:
+git config --global user.name "Tên của bạn"
+git config --global user.email "Email của bạn"
+Kiểm tra phiên bản Git:
+git --version
+Khởi tạo kho lưu trữ Git mới:
+- git init
+Kiểm tra trạng thái của kho lưu trữ
+- git status
+Thêm tệp vào vùng staging:
+- git 
+- git add //<tên tệp>
+- git add .  # Thêm tất cả các tệp đã thay đổi
+Sao chép một kho lưu trữ từ xa:
+git clone <URL của kho lưu trữ>
+- git reset
+Ghi lại các thay đổi (commit)
+git commit -m "Thông điệp commit"
+- git commit
+
+- git log
+- git log --oneline
+- git checkout {branch name}
+- git branch
+- git checkout -b {branch name}
+- git merge {branch name}
+- git branch -d {branch name}
+- git push
+- git remote add origin {repo url}
+- git push origin {branch name}
+- git clone {rerpo url}
+- git feth origin
+- git checkout -b {branch name} origin/{branch name}
+- git 
+- git 
+- git 
+
+
+
+
+
+
+
 
